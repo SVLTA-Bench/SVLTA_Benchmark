@@ -1,0 +1,10 @@
+open
+close
+sit
+grab
+stand
+walk
+run
+put
+switch
+drink
