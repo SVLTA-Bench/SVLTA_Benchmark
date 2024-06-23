@@ -1,0 +1,57 @@
+{
+    "open":
+    {
+        "actions": ["open fridge", "open bathroomcabinet", "open kitchencabinet", "open cabinet", "open dishwasher", "open microwave"]
+    },
+    "close":
+    {
+        "actions": ["close fridge", "close bathroomcabinet", "close kitchencabinet", "close cabinet", "close dishwasher", "close microwave"]
+    },
+    "sit":
+    {
+        "actions": ["sit on sofa", "sit on bed", "sit on bench", "sit on chair"]
+    },
+    "grab":
+    {
+        "actions": ["grab waterglass", "grab wineglass", "grab milk", "grab juice", "grab cereal", "grab chips", "grab salmon", "grab cutleryfork",
+                    "grab plate", "grab folder", "grab remotecontrol", "grab paper", "grab mouse", "grab facecream", "grab fryingpan"]
+    },
+    "stand up":
+    {
+        "actions": ["stand up"]
+    },
+    "drink":
+    {
+        "actions": ["drink waterglass", "drink wineglass", "drink milk", "drink juice"]
+    },
+    "switch off":
+    {
+        "actions": ["switch off tv", "switch off faucet", "switch off stove", "switch off computer"]
+    },
+    "switch on":
+    {
+        "actions": ["switch on tv", "switch on faucet", "switch on stove", "switch on computer"]
+    },
+    "run":
+    {
+        "actions": ["run to bedroom", "run to bathroom", "run to kitchen", "run to livingroom"]
+    },
+    "put in":
+    {
+        "actions": ["put milk in microwave", "put salmon in microwave", "put plate in microwave", "put chips in fridge", "put cereal in fridge"]
+    },
+    "put back":
+    {
+        "actions": ["put waterglass back on the microwave", "put wineglass back on the microwave", "put milk back on the microwave", "put juice back on the microwave",
+                    "put cereal back on the microwave", "put chips back on the microwave", "put salmon back on the microwave", "put cutleryfork back on the sofa", 
+                    "put plate back on the sofa", "put folder back on the sofa", "put remotecontrol back on the sofa", "put paper back on the sofa",
+                    "put mouse back on the sofa", "put facecream back on the sofa", "put fryingpan back on the sofa"]
+    },
+    "walk":
+    {
+        "actions": ["walk to fridge", "walk to bathroomcabinet", "walk to kitchencabinet", "walk to cabinet", "walk to dishwasher", "walk to microwave", "walk to sofa", 
+                    "walk to bed", "walk to bench", "walk to chair", "walk to waterglass", "walk to wineglass", "walk to milk", "walk to juice", 
+                    "walk to cereal", "walk to chips", "walk to salmon", "walk to cutleryfork", "walk to plate", "walk to folder", "walk to remotecontrol", "walk to paper", 
+                    "walk to mouse", "walk to facecream", "walk to fryingpan", "walk to tv", "walk to toaster","walk to faucet", "walk to stove", "walk to computer"]
+    }
+}
